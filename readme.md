@@ -1,1 +1,1 @@
-this is a repisitory for qm2
+this is a repository for qm2
